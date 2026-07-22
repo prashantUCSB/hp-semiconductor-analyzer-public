@@ -1,0 +1,17 @@
+{
+  "gpib": {
+    "default_address": 17,
+    "timeout_ms": 30000,
+    "adapter": "auto"
+  },
+  "measurement": {
+    "default_integration": "MED",
+    "auto_save": false,
+    "save_directory": "~/Documents/HP4145_Data"
+  },
+  "plot": {
+    "theme": "dark",
+    "auto_log_y": false,
+    "point_limit": 10000
+  }
+}
